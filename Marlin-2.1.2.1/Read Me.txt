@@ -1,0 +1,1 @@
+These config files contain RGB LED, LCD, Runout Sensor, BLTouch, Mesh Mapping/Bed leveling, among other odds and ends enabled. This set up is for the M2 with silver Z axis motor and Z stop at bottom (spider upgrade kit). When using the BL Touch, make sure to set up the offsets. The offsets included are set for the M3 left plate with BL Touch.
